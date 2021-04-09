@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ResultsCard 1`] = `
+<div
+  class="card-group"
+>
+  <div
+    class="card"
+  >
+    <div
+      class="card-body"
+    >
+      <h5
+        class="card-title"
+      >
+        Weather in 
+        Miami
+      </h5>
+      <p
+        class="card-text"
+      >
+        Temperature 
+        90
+        °
+      </p>
+    </div>
+  </div>
+  <div
+    class="card"
+  >
+    <div
+      class="card-body"
+    >
+      <h5
+        class="card-title"
+      >
+        Min and Max
+      </h5>
+      <p
+        class="card-text"
+      >
+        Max: 
+        43
+        °
+      </p>
+      <p
+        class="card-text"
+      >
+         Min: 
+        45
+        °
+      </p>
+    </div>
+  </div>
+  <div
+    class="card"
+  >
+    <div
+      class="card-body"
+    >
+      <h5
+        class="card-title"
+      >
+        Humidity
+      </h5>
+      <p
+        class="card-text"
+      >
+        45
+        %
+      </p>
+    </div>
+  </div>
+</div>
+`;

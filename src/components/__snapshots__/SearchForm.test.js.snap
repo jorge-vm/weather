@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders SearchForm 1`] = `
+<form>
+  <div
+    class="input-group"
+  >
+    <span
+      class="input-group-text"
+    >
+      City
+    </span>
+    <input
+      class="form-control"
+      id="city"
+      name="city"
+      placeholder="Enter city name, i,e. Seattle"
+      type="text"
+      value=""
+    />
+    <select
+      class="form-select"
+      name="units"
+    >
+      <option
+        value="imperial"
+      >
+        °F
+      </option>
+      <option
+        value="metric"
+      >
+        °C
+      </option>
+    </select>
+  </div>
+  <br />
+  <button
+    class="btn btn-primary"
+    type="submit"
+  >
+    Submit
+  </button>
+</form>
+`;
