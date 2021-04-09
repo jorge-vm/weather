@@ -1,15 +1,8 @@
-import './App.css';
+import "./App.css";
+import Container from "./components/Container";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Weather App
-        </p>       
-      </header>
-    </div>
-  );
+  return <Container />;
 }
 
 export default App;
