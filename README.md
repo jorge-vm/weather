@@ -1,5 +1,14 @@
 # Weather App
 
+![landing page](./landing_page.png)
+
+## Architecture
+
+Built using formik for the input and state management (w/ validation), 
+Bootstrap for styles.
+It's integrated with openweathermap API and leverages the JS fetch API.
+Unit testing coverage through snapshot testing. 
+
 ## Available Scripts
 
 In the project directory, you can run:
